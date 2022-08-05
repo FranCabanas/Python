@@ -12,3 +12,9 @@ PPE = PE*0
 TOT = PPG+PPP+PPE 
 
 print ("La cantidad de puntos en el torneo es de ",TOT)
+
+print ("El numero de partidos ganados: ", PG)
+
+print ("El numero de partidos perdidos: ", PP)
+
+print ("El numero de partidos empatados: ", PE)
